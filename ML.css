@@ -102,6 +102,20 @@ footer{
 	margin-bottom: 20px;
 }
 
+@media (max-width: 1500px){
+	#gif{
+		height: 400px;
+		width: 550px;
+	}
+}
+
+@media (max-width: 1300px){
+	#gif{
+		height: 350px;
+		width: 500px;
+	}
+}
+
 @media (max-width: 600px) {
 	#gif{
 		height: 300px;
