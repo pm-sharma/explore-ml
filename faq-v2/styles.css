@@ -41,19 +41,7 @@ h2{
 }
 
 .content{
-	position:absolute;
-	top: 10%;
-	left: 50%;
-	z-index: -1;
-	width: 500px;
-	height: 400px;
-	background-image: url(logos/back.png);
-	background-size: 500px 375px;
-	background-repeat: no-repeat;
-	position: relative;
-	opacity: 0.5;
-	filter: alpha(opacity = 50);
-	margin-top:-300px;
+	
 }
 
 
@@ -106,6 +94,6 @@ footer{
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 15%;
 	margin-bottom: 20px;
 }
